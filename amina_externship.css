@@ -1,0 +1,16 @@
+li.topmenu, p.topmenu {display: inline; margin-right: auto; text-align: center; }
+
+p {text-align: justify; }
+.coverpage {width: 500px; border-width: 5px; border-style: dashed; border-color: black; border-collapse: collapse; padding: 10px; margin: 5px auto 5px auto; text-align: center; }
+body {background-color: #d8bfd8; font-family: Georgia, Times, serif; text-align: center;}
+
+h1, h2 {font-family: Arial, Verdana, sans-serif; background-color: #e6e6fa; }
+
+li {text-align: left; }
+ol {list-style-type: lower-roman;}
+/*figcaption {text-align: left;}*/
+/*.topmenu {width: 100%; border: 5px solid black; margin: 0px 5px; padding: 10px; position: fixed; display: inline; margin-right: 20px; text-align: center; }*/
+.topmenu {width: auto 10px; background-color: #ff00ff; position: sticky; border-width:100% 50px 100% 50px; padding: 20px; }
+p.coverpage {border-style: none;}
+/*figure {display: inline; justify-content: center; }*/
+#fig2, #fig3, #fig4, #fig5, #fig6, #fig7 {display: flex; justify-content: center; }
